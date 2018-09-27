@@ -1,0 +1,5 @@
+
+.gitattributes
+Facial Emotion Recognition/.ipynb_checkpoints/Facial Emotion Recognition-checkpoint.ipynb
+Facial Emotion Recognition/fer2013.csv
+Facial Emotion Recognition/facial_expression_normalization_model.h5
